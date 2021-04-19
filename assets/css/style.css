@@ -1,0 +1,22 @@
+.wedo_social_link{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.wedo_social_link li{
+	float: left;
+}
+.wedo_social_link li a{
+	display: inline-block;
+    text-decoration: none;
+    color: #999;
+    padding: 0px 2px;
+    text-align: center;
+    margin-right: 5px;
+    font-size: 25px;
+}
+
+.wedo_social_link li a:hover{
+	text-decoration: none;
+}
+
